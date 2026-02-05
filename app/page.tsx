@@ -31,7 +31,7 @@ export default function Home() {
             letterSpacing: "2px",
           }}
         >
-          Sable Mesa
+          SABLE MESA
         </h1>
 
         <p

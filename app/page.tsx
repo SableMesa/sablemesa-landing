@@ -41,7 +41,7 @@ export default function Home() {
             marginBottom: "30px",
           }}
         >
-          Digital Infrastructure for Manufacturing and D2C Brands
+          Digital Infrastructure for Manufacturing/D2C Brands
         </p>
 
         <p

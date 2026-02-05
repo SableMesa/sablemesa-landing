@@ -8,7 +8,7 @@ export default function Home() {
         alignItems: "center",
         background: "linear-gradient(135deg, #000000, #111827)",
         color: "#fff",
-        fontFamily: "sans-serif",
+        fontFamily: "montserrate",
         textAlign: "center",
         padding: "20px",
       }}
@@ -41,7 +41,7 @@ export default function Home() {
             marginBottom: "30px",
           }}
         >
-          Digital Infrastructure for Manufacturing
+          Digital Infrastructure for Manufacturing and D2C Brands
         </p>
 
         <p
